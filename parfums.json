@@ -1,0 +1,49 @@
+{
+  "parfums": [
+    {
+      "id": 1,
+      "title": "Bleu de Chanel",
+      "price": 150.99,
+      "description": "Wewangian woody-aromatic untuk pria. Menampilkan aroma citrus yang segar diikuti oleh cedar dan sandalwood yang hangat.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/61/1.jpg",
+      "tags": ["fresh", "woody", "citrus"]
+    },
+    {
+      "id": 2,
+      "title": "Dior Sauvage",
+      "price": 125.50,
+      "description": "Aroma segar yang radikal, mentah, dan mulia pada saat yang sama. Komposisinya didominasi oleh Calabrian bergamot dan Ambroxan.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/64/1.jpg",
+      "tags": ["fresh", "spicy", "aromatic"]
+    },
+    {
+      "id": 3,
+      "title": "Chanel No. 5",
+      "price": 180.00,
+      "description": "Wewangian floral-aldehyde klasik untuk wanita. Dikenal sebagai salah satu parfum paling ikonik di dunia dengan aroma utamanya ylang-ylang, mawar, dan melati.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/66/1.jpg",
+      "tags": ["floral", "classic", "powdery"]
+    },
+    {
+      "id": 4,
+      "title": "Gucci Bloom",
+      "price": 135.75,
+      "description": "Parfum yang dirancang untuk merayakan keaslian, vitalitas, dan keragaman wanita. Dibangun dengan aroma Tuberose dan Jasmine.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/68/1.jpg",
+      "tags": ["floral", "rich", "white floral"]
+    },
+    {
+      "id": 5,
+      "title": "Acqua di Giò",
+      "price": 95.00,
+      "description": "Kesegaran laut yang otentik dan alami. Menggabungkan nada citrus, rosemary, dan nilam Indonesia untuk menciptakan aroma pria yang segar namun sensual.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/63/1.jpg",
+      "tags": ["fresh", "aquatic", "citrus"]
+    }
+  ]
+}
