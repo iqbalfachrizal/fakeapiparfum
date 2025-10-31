@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Bleu de Chanel",
-      "price": 150.99,
+      "price": 450000,
       "description": "Wewangian woody-aromatic untuk pria. Menampilkan aroma citrus yang segar diikuti oleh cedar dan sandalwood yang hangat.",
       "category": "men's fragrance",
       "image": "https://i.dummyjson.com/data/products/61/1.jpg",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "Dior Sauvage",
-      "price": 125.50,
+      "price": 420000,
       "description": "Aroma segar yang radikal, mentah, dan mulia pada saat yang sama. Komposisinya didominasi oleh Calabrian bergamot dan Ambroxan.",
       "category": "men's fragrance",
       "image": "https://i.dummyjson.com/data/products/64/1.jpg",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "Chanel No. 5",
-      "price": 180.00,
+      "price": 550000,
       "description": "Wewangian floral-aldehyde klasik untuk wanita. Dikenal sebagai salah satu parfum paling ikonik di dunia dengan aroma utamanya ylang-ylang, mawar, dan melati.",
       "category": "women's fragrance",
       "image": "https://i.dummyjson.com/data/products/66/1.jpg",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "title": "Gucci Bloom",
-      "price": 135.75,
+      "price": 380000,
       "description": "Parfum yang dirancang untuk merayakan keaslian, vitalitas, dan keragaman wanita. Dibangun dengan aroma Tuberose dan Jasmine.",
       "category": "women's fragrance",
       "image": "https://i.dummyjson.com/data/products/68/1.jpg",
@@ -39,11 +39,174 @@
     {
       "id": 5,
       "title": "Acqua di Giò",
-      "price": 95.00,
+      "price": 290000,
       "description": "Kesegaran laut yang otentik dan alami. Menggabungkan nada citrus, rosemary, dan nilam Indonesia untuk menciptakan aroma pria yang segar namun sensual.",
       "category": "men's fragrance",
       "image": "https://i.dummyjson.com/data/products/63/1.jpg",
       "tags": ["fresh", "aquatic", "citrus"]
+    },
+    {
+      "id": 6,
+      "title": "Black Opium",
+      "price": 275000,
+      "description": "Aroma kopi, vanila, and bunga putih yang adiktif dan sensual.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/70/1.jpg",
+      "tags": ["spicy", "vanilla", "warm"]
+    },
+    {
+      "id": 7,
+      "title": "CK One",
+      "price": 180000,
+      "description": "Parfum unisex ikonik yang bersih dan segar dengan aroma teh hijau.",
+      "category": "unisex",
+      "image": "https://i.dummyjson.com/data/products/11/1.jpg",
+      "tags": ["fresh", "citrus", "unisex"]
+    },
+    {
+      "id": 8,
+      "title": "Versace Eros",
+      "price": 250000,
+      "description": "Aroma maskulin yang kuat dengan mint, apel hijau, dan vanila.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/12/1.jpg",
+      "tags": ["fresh", "vanilla", "aromatic"]
+    },
+    {
+      "id": 9,
+      "title": "Marc Jacobs Daisy",
+      "price": 210000,
+      "description": "Aroma floral yang ceria dan feminin dengan sentuhan stroberi dan violet.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/71/1.jpg",
+      "tags": ["floral", "fresh", "fruity"]
+    },
+    {
+      "id": 10,
+      "title": "Paco Rabanne 1 Million",
+      "price": 310000,
+      "description": "Aroma spicy-leather yang mewah dan berani, dengan grapefruit dan cinnamon.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/65/1.jpg",
+      "tags": ["spicy", "warm", "leather"]
+    },
+    {
+      "id": 11,
+      "title": "Lancôme La Vie Est Belle",
+      "price": 330000,
+      "description": "Manis dan elegan, dengan aroma iris, praline, dan patchouli.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/72/1.jpg",
+      "tags": ["sweet", "vanilla", "floral"]
+    },
+    {
+      "id": 12,
+      "title": "Armani Code",
+      "price": 280000,
+      "description": "Aroma oriental-spicy yang misterius dan modern untuk pria.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/62/1.jpg",
+      "tags": ["spicy", "leather", "citrus"]
+    },
+    {
+      "id": 13,
+      "title": "Jo Malone Lime Basil & Mandarin",
+      "price": 220000,
+      "description": "Aroma citrus unisex yang klasik dengan sentuhan basil yang peppery.",
+      "category": "unisex",
+      "image": "https://i.dummyjson.com/data/products/21/1.jpg",
+      "tags": ["citrus", "fresh", "unisex"]
+    },
+    {
+      "id": 14,
+      "title": "Viktor&Rolf Flowerbomb",
+      "price": 360000,
+      "description": "Ledakan aroma floral yang kaya dengan melati, mawar, dan anggrek.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/73/1.jpg",
+      "tags": ["floral", "sweet", "rich"]
+    },
+    {
+      "id": 15,
+      "title": "Nautica Voyage",
+      "price": 150000,
+      "description": "Sangat segar dan aquatic, seperti angin laut. Sempurna untuk siang hari.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/13/1.jpg",
+      "tags": ["fresh", "aquatic", "green"]
+    },
+    {
+      "id": 16,
+      "title": "D&G Light Blue",
+      "price": 200000,
+      "description": "Aroma fruity-floral yang segar dari Sisilia, dengan lemon dan apel.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/74/1.jpg",
+      "tags": ["fresh", "citrus", "fruity"]
+    },
+    {
+      "id": 17,
+      "title": "Le Labo Santal 33",
+      "price": 600000,
+      "description": "Aroma unisex yang ikonik dengan sandalwood, cedar, dan sentuhan kulit.",
+      "category": "unisex",
+      "image": "https://i.dummyjson.com/data/products/22/1.jpg",
+      "tags": ["woody", "unisex", "leather"]
+    },
+    {
+      "id": 18,
+      "title": "Montblanc Explorer",
+      "price": 190000,
+      "description": "Aroma woody-aromatic yang berjiwa petualang, dengan bergamot dan vetiver.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/14/1.jpg",
+      "tags": ["woody", "citrus", "fresh"]
+    },
+    {
+      "id": 19,
+      "title": "Chloé Eau de Parfum",
+      "price": 230000,
+      "description": "Aroma floral powdery yang feminin, ringan, dan elegan. Mawar adalah intinya.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/75/1.jpg",
+      "tags": ["floral", "rose", "powdery"]
+    },
+    {
+      "id": 20,
+      "title": "Replica By the Fireplace",
+      "price": 240000,
+      "description": "Hangat dan nyaman, aroma unisex ini menangkap esensi api unggun.",
+      "category": "unisex",
+      "image": "https://i.dummyjson.com/data/products/23/1.jpg",
+      "tags": ["warm", "woody", "vanilla"]
+    },
+    {
+      "id": 21,
+      "title": "Davidoff Cool Water",
+      "price": 160000,
+      "description": "Parfum klasik yang menyegarkan dengan aroma laut dan mint.",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/15/1.jpg",
+      "tags": ["fresh", "aquatic", "aromatic"]
+    },
+    {
+      "id": 22,
+      "title": "Ariana Grande Cloud",
+      "price": 185000,
+      "description": "Manis seperti permen, dengan lavender, kelapa, dan praline.",
+      "category": "women's fragrance",
+      "image": "https://i.dummyjson.com/data/products/24/1.jpg",
+      "tags": ["sweet", "vanilla", "fruity"]
+    },
+    {
+      "id": 23,
+      "title": "YSL Y Eau de Parfum",
+      "price": 300000,
+      "description": "Aroma modern yang menggabungkan kesegaran (sage) dan intensitas (kayu).",
+      "category": "men's fragrance",
+      "image": "https://i.dummyjson.com/data/products/25/1.jpg",
+      "tags": ["fresh", "aromatic", "woody"]
     }
   ]
 }
+
